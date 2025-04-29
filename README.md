@@ -8,7 +8,7 @@
 </div>
 
 
-# Hi, I'm Owaise Imdad 👋
+# Hi, I'm Owaise 👋
 
 I'm a passionate software developer with experience in **web development** and **open-source contributions**.
 
