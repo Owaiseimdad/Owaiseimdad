@@ -57,11 +57,4 @@ I'm a passionate software developer with experience in **web development** and *
 # 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Owaiseimdad&show_icons=true&hide_title=true&count_private=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Owaiseimdad&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Owaiseimdad&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="Postgresql">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB">
-</div>
 
