@@ -65,7 +65,3 @@ I'm a passionate software developer with experience in **web development** and *
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB">
 </div>
 
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owaiseimdad&layout=pie)](https://github.com/Owaiseimdad/github-readme-stats)
-
