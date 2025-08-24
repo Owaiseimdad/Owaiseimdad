@@ -12,7 +12,7 @@
 
 I'm a passionate software developer with experience in **web development** and **open-source contributions**.
 
-- 🔭 I’m currently working on [Checkout](https://github.com/Owaiseimdad/Checkmate) which is an open source project for online application pulse.
+- 🔭 I am SDE-1 at SaaS based company and currently working on [Checkout](https://github.com/Owaiseimdad/Checkmate) (In my freetime) which is an open source project for online application pulse.
 - 🌱 I’m learning **JavaScript**, **React**, **Node.js**, **Machine Learning**, **Python**, **Go.gooooo**, **Java**!
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 📫 How to reach me: [owaiseimdad@gmail.com](mailto:owaiseimdad@gmail.com).
